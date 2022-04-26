@@ -1,0 +1,16 @@
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ExerciciosCsharp\Exercicio 4 CS lista 7 calculadora\Exercicio 4 CS lista 7 calculadora\bin\Debug\net5.0\Exercicio 4 CS lista 7 calculadora.exe
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ExerciciosCsharp\Exercicio 4 CS lista 7 calculadora\Exercicio 4 CS lista 7 calculadora\bin\Debug\net5.0\Exercicio 4 CS lista 7 calculadora.deps.json
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ExerciciosCsharp\Exercicio 4 CS lista 7 calculadora\Exercicio 4 CS lista 7 calculadora\bin\Debug\net5.0\Exercicio 4 CS lista 7 calculadora.runtimeconfig.json
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ExerciciosCsharp\Exercicio 4 CS lista 7 calculadora\Exercicio 4 CS lista 7 calculadora\bin\Debug\net5.0\Exercicio 4 CS lista 7 calculadora.runtimeconfig.dev.json
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ExerciciosCsharp\Exercicio 4 CS lista 7 calculadora\Exercicio 4 CS lista 7 calculadora\bin\Debug\net5.0\Exercicio 4 CS lista 7 calculadora.dll
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ExerciciosCsharp\Exercicio 4 CS lista 7 calculadora\Exercicio 4 CS lista 7 calculadora\bin\Debug\net5.0\Exercicio 4 CS lista 7 calculadora.pdb
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ExerciciosCsharp\Exercicio 4 CS lista 7 calculadora\Exercicio 4 CS lista 7 calculadora\obj\Debug\net5.0\Exercicio 4 CS lista 7 calculadora.csproj.AssemblyReference.cache
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ExerciciosCsharp\Exercicio 4 CS lista 7 calculadora\Exercicio 4 CS lista 7 calculadora\obj\Debug\net5.0\Exercicio 4 CS lista 7 calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ExerciciosCsharp\Exercicio 4 CS lista 7 calculadora\Exercicio 4 CS lista 7 calculadora\obj\Debug\net5.0\Exercicio 4 CS lista 7 calculadora.AssemblyInfoInputs.cache
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ExerciciosCsharp\Exercicio 4 CS lista 7 calculadora\Exercicio 4 CS lista 7 calculadora\obj\Debug\net5.0\Exercicio 4 CS lista 7 calculadora.AssemblyInfo.cs
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ExerciciosCsharp\Exercicio 4 CS lista 7 calculadora\Exercicio 4 CS lista 7 calculadora\obj\Debug\net5.0\Exercicio 4 CS lista 7 calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ExerciciosCsharp\Exercicio 4 CS lista 7 calculadora\Exercicio 4 CS lista 7 calculadora\obj\Debug\net5.0\Exercicio 4 CS lista 7 calculadora.dll
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ExerciciosCsharp\Exercicio 4 CS lista 7 calculadora\Exercicio 4 CS lista 7 calculadora\obj\Debug\net5.0\refint\Exercicio 4 CS lista 7 calculadora.dll
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ExerciciosCsharp\Exercicio 4 CS lista 7 calculadora\Exercicio 4 CS lista 7 calculadora\obj\Debug\net5.0\Exercicio 4 CS lista 7 calculadora.pdb
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ExerciciosCsharp\Exercicio 4 CS lista 7 calculadora\Exercicio 4 CS lista 7 calculadora\obj\Debug\net5.0\Exercicio 4 CS lista 7 calculadora.genruntimeconfig.cache
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ExerciciosCsharp\Exercicio 4 CS lista 7 calculadora\Exercicio 4 CS lista 7 calculadora\obj\Debug\net5.0\ref\Exercicio 4 CS lista 7 calculadora.dll
